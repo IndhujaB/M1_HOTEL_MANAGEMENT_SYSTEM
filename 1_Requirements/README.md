@@ -1,1 +1,109 @@
+# **HOTEL MANAGEMENT SYSTEM**
+
+## INTRODUCTION:
+
+Hotel  Management  system  is  an  all-inclusive system which simplifies the end to end of hotel  operations  such  as  room reservations  refreshments,  billing,  automating  them. The system  helps  in  improving  efficiency and fast procedures for visitors, It is also efficient to guest keeping preferences. As we are aware of busy and hectic schedule of business people, this Hotel system program will surely turn out to be great relief for them.Hotel room management module help user to keep track of all information of hotel room.
+
+Hotel Management System is a web-based application that allows the hotel manager to handle all hotel activities online.Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient. The hotel manager is a very busy person and does not have the time to sit and manage the entire activities manually on paper. This application gives him the power and flexibility to manage the entire system from a single online system. 
+
+
+
+## OBJECTIVES:
+a)Manually keeping all customer records.
+
+b)Fast  process of reservation. User has find manually whether room is available or not. 
+
+c)Hotel information data are fully  secured. 
+
+d)Finding records are very short time  consuming.
+
+e)Retrieval of guest records is very easy . 
+
+## **BENEFITS:**
+
+a)Easy to use processes.
+
+b)Invoices and reports.
+
+c)Centralized control.
+
+d)Dependable system.
+
+e)Edge over your competitors.
+
+f)Increased revenue.
+
+
+## **4W'S and 1H:**
+
+### Who
+This hotel Management System is an application is used by all the tourist travelers,families and all the people
+
+### What:
+A hotel management system is a set of hotel software solutions that keep operations flowing. There are accounting packages, customer relationship management (CRM) packages, and a dizzying array of industry-specific software.
+
+### When:
+The main purpose of hotel management is to ensure a constant influx of visitors and guests to the hotel throughout the year, showcase the wide variety of services and USPs and how it benefits the visiting guests through marketing initiatives.
+
+### Where:
+Hotel Management systems are used by big hotel chains, small hostels, cottages, resorts, rentals, etc. Using these hotel front desk software, hoteliers can see the booking status of rooms and control reservations.
+
+### How:
+A hotel management system works by processing secure online bookings made through a hotel’s website.
+
+## **Swot Analysis:**
+
+### Strengths:
+a) Simple & Easy to Use.
+
+b) Capabilities
+
+c) Price,value and quality
+
+d) Advantages of prposition 
+
+e) Mobile Access.
+
+### Weakness:
+a) GST  extra avalibility in online booking 
+
+b) lack of in-room technology.
+
+c) Online Systems require high-speed internet connectivity.
+
+d) Risk of computer virus.
+
+## Opportunities:
+This refers to things you could do to increase bookings, improve guest satisfaction scores, or boost your profits. Research about market trends and look to guest reviews for ideas of where you can open up new streams of revenue or reach new markets. 
+
+### Threats:
+COVID pandemic is a recent example of how pandemics can be a threat of the hotel industry overall.Consumer behaviour is changing. Augmented reality and Virtual reality is giving consumers options to enjoy travel without much of travelling. This can directly impact the lodging industry.
+
+### Advantages:
+
+a)The hotel Management System is used to book a hotel from anywhere.
+
+b)It is an easiest platform for all customer which can be easily booked hotel and know the all details.
+
+c)Automate the process of day to day activities of Hotel.
+
+
+## HIGH LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLR1|C LANGUAGE|IMPLEMENTED|
+|HLR2|OS WINDOWS|IMPLEMENTED|
+|HLR3|OS LINUX|IMPLEMENTED|
+|HLR4|HARDDISK|IMPLEMENTED|
+|HLR5|RAM 4GB|IMPLEMENTED|
+
+## LOW LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLR1|FIND ROOM|IMPLEMENTED|
+|LLR2|CHECKOUT GUEST|IMPLEMENTED|
+|LLR3|VIEW BOOKINGS|IMPLEMENTED|
+|LLR4|AVAILABLE ROOMS|IMPLEMENTED|
 

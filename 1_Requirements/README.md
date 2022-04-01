@@ -6,6 +6,7 @@ Hotel  Management  system  is  an  all-inclusive system which simplifies the end
 
 Hotel Management System is a web-based application that allows the hotel manager to handle all hotel activities online.Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient. The hotel manager is a very busy person and does not have the time to sit and manage the entire activities manually on paper. This application gives him the power and flexibility to manage the entire system from a single online system. 
 
+The system allows the manager to keep track of available rooms in the system and even maintain staff details like their hours worked and salary. Customers can view and book an available room online and the system will automatically generate the bill according to the number of days the type of room is booked.
 
 
 ## OBJECTIVES:
@@ -38,6 +39,18 @@ d)Dependable system.
 e)Edge over your competitors.
 
 f)Increased revenue.
+
+## Customer Page:
+
+Can view their details as well as Booking details.
+
+## Receptionist Page:
+
+He can Offline Book the available room at the hotel.
+
+## Payment Page:
+
+This interface helps in paying the money via several modes
 
 
 ## **4W'S and 1H:**

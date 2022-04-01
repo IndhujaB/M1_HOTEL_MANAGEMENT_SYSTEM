@@ -10,35 +10,35 @@ The system allows the manager to keep track of available rooms in the system and
 
 
 ## OBJECTIVES:
-a)Manually keeping all customer records.
+* Manually keeping all customer records.
 
-b)Fast  process of reservation. User has find manually whether room is available or not. 
+* Fast  process of reservation. User has find manually whether room is available or not. 
 
-c)Hotel information data are fully  secured. 
+* Hotel information data are fully  secured. 
 
-d)Finding records are very short time  consuming.
+* Finding records are very short time  consuming.
 
-e)Retrieval of guest records is very easy . 
+* Retrieval of guest records is very easy . 
 
-d)Keeping the record of all persons like customers, managers etc.
+* Keeping the record of all persons like customers, managers etc.
 
-f)Maintains proper list of all persons.
+* Maintains proper list of all persons.
 
-g)Generating proper bill slip and calculate managers salary.
+* Generating proper bill slip and calculate managers salary.
 
 ## **BENEFITS:**
 
-a)Easy to use processes.
+* Easy to use processes.
 
-b)Invoices and reports.
+* Invoices and reports.
 
-c)Centralized control.
+* Centralized control.
 
-d)Dependable system.
+* Dependable system.
 
-e)Edge over your competitors.
+* Edge over your competitors.
 
-f)Increased revenue.
+* Increased revenue.
 
 ## Customer Page:
 
@@ -73,24 +73,24 @@ A hotel management system works by processing secure online bookings made throug
 ## **Swot Analysis:**
 
 ### Strengths:
-a) Simple & Easy to Use.
+* Simple & Easy to Use.
 
-b) Capabilities
+* Capabilities
 
-c) Price,value and quality
+* Price,value and quality
 
-d) Advantages of prposition 
+* Advantages of prposition 
 
-e) Mobile Access.
+* Mobile Access.
 
 ### Weakness:
-a) GST  extra avalibility in online booking 
+* GST  extra avalibility in online booking 
 
-b) lack of in-room technology.
+* lack of in-room technology.
 
-c) Online Systems require high-speed internet connectivity.
+* Online Systems require high-speed internet connectivity.
 
-d) Risk of computer virus.
+* Risk of computer virus.
 
 ## Opportunities:
 This refers to things you could do to increase bookings, improve guest satisfaction scores, or boost your profits. Research about market trends and look to guest reviews for ideas of where you can open up new streams of revenue or reach new markets. 
@@ -100,11 +100,11 @@ COVID pandemic is a recent example of how pandemics can be a threat of the hotel
 
 ### Advantages:
 
-a)The hotel Management System is used to book a hotel from anywhere.
+* The hotel Management System is used to book a hotel from anywhere.
 
-b)It is an easiest platform for all customer which can be easily booked hotel and know the all details.
+* It is an easiest platform for all customer which can be easily booked hotel and know the all details.
 
-c)Automate the process of day to day activities of Hotel.
+* sAutomate the process of day to day activities of Hotel.
 
 
 ## HIGH LEVEL REQUIREMENTS:

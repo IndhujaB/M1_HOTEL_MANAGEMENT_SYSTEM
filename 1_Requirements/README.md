@@ -72,32 +72,6 @@ A hotel management system works by processing secure online bookings made throug
 
 ## **Swot Analysis:**
 
-### Strengths:
-* Simple & Easy to Use.
-
-* Capabilities
-
-* Price,value and quality
-
-* Advantages of prposition 
-
-* Mobile Access.
-
-### Weakness:
-* GST  extra avalibility in online booking 
-
-* lack of in-room technology.
-
-* Online Systems require high-speed internet connectivity.
-
-* Risk of computer virus.
-
-## Opportunities:
-This refers to things you could do to increase bookings, improve guest satisfaction scores, or boost your profits. Research about market trends and look to guest reviews for ideas of where you can open up new streams of revenue or reach new markets. 
-
-### Threats:
-COVID pandemic is a recent example of how pandemics can be a threat of the hotel industry overall.Consumer behaviour is changing. Augmented reality and Virtual reality is giving consumers options to enjoy travel without much of travelling. This can directly impact the lodging industry.
-
 ### Advantages:
 
 * The hotel Management System is used to book a hotel from anywhere.

@@ -13,7 +13,7 @@ TEST_SRC = src/hotel_operations.c\
 test/test_hotel_operations.c\
 unity/unity.c
 
-TEST_OUTPUT = Test_fun.out
+TEST_OUTPUT = Test_a.out
 
 #All include folders with header files
 INC = -Iinc\

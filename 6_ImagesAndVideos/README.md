@@ -7,6 +7,6 @@
 ### Guest checkout
 ![alt text](https://github.com/IndhujaB/M1_PROJECT/blob/main/6_ImagesAndVideos/guest%20checkout.png)
 ### New guest
-![alt text](https://github.com/IndhujaB/M1_PROJECT/blob/main/5_images/new%20guest.png)
+![alt text](https://github.com/IndhujaB/M1_PROJECT/blob/main/6_ImagesAndVideos/new%20guest.png)
 ### View booking
 ![alt text](https://github.com/IndhujaB/M1_PROJECT/blob/main/5_images/view%20booking.png)

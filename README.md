@@ -14,6 +14,9 @@
 ### Codiga
 ![alt text](https://api.codiga.io/project/32345/status/svg)
 
+### Valgrind
+[![Valgrind](https://github.com/IndhujaB/M1_HOTEL_MANAGEMENT_SYSTEM/actions/workflows/valgrind.yml/badge.svg)](https://github.com/IndhujaB/M1_HOTEL_MANAGEMENT_SYSTEM/actions/workflows/valgrind.yml)
+
 
 
 

@@ -4,6 +4,7 @@
 
 
 ### Cppcheck Analysis
+[![Cppcheck Analysis](https://github.com/IndhujaB/M1_HOTEL_MANAGEMENT_SYSTEM/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/IndhujaB/M1_HOTEL_MANAGEMENT_SYSTEM/actions/workflows/cppcheck_analysis.yml)
 
 ### Unit Testing
 

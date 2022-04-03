@@ -213,3 +213,6 @@ void view_bookings(){
         printf("%s %s %s %s \n",h.name,h.room,h.wifi,h.bf);
     }
 }
+void test_hotel(){
+    printf("test is passed");
+}

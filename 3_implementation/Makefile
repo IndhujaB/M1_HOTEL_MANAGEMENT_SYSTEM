@@ -26,5 +26,5 @@ PROJECT_OUTPUT = hotel.out
 DOCUMENTATION_OUTPUT = documentation/html
 
 Build:
-  gcc function.c test_hotel.c
+     gcc function.c test_hotel.c unity/unity.c -Iunity
 Run:

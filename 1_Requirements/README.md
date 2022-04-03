@@ -52,6 +52,8 @@ He can Offline Book the available room at the hotel.
 
 This interface helps in paying the money via several modes
 
+## SWOT ANALYSIS:
+![alt text](https://github.com/IndhujaB/M1_PROJECT/blob/main/1_Requirements/SWOT%20ANALYSIS.png)
 
 ## **4W'S and 1H:**
 
